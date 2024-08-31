@@ -5,6 +5,7 @@ con las siguientes condiciones:
 - Buscar el termino PlaySation 5
 - Filtrar por la ciudad de México
 - Ordenar de mayor a menor precio
+
 El resultado se muestra en consola.
 
 Requisitos:
