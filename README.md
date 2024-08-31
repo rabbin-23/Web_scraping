@@ -1,3 +1,4 @@
+Creado por Elias Abiram Torres Vazquez
 # Web_scraping
 En este ejercicio se realiza la extraccion del nombre y el precio del producto Playstation 5 en la plataforma  https://www.mercadolibre.com
 con las siguientes condiciones:
